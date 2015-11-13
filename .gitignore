@@ -1,0 +1,15 @@
+**/.bzr
+**/.bzr/*
+**/build
+**/build/*
+**/dist
+**/dist/*
+**/nbproject/private
+**/nbproject/private/*
+**/CVS
+**/CVS/**
+**/javadoc
+**/javadoc/**
+*.jdb
+*.tmp
+~$*.doc
